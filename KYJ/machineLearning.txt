@@ -1,0 +1,52 @@
+머신러닝 처리 프로세스
+데이터수집 > 데이터 전처리 > 모델 학습 > 모델 평가 > 모델 배포
+
+머신러닝 유형
+
+----------------지도학습---------------
+과거 데이터 필요 -> 독립변수/종속변수 선정 -> 모델 구하기
+
+1. 분류(classification)
+결과: Text
+- Logistic Regression
+- Naive Bayes
+- Decision Tree
+- SVM
+- KNN
+- DNN
+- Ensemble Learning (ex. Random Forest, XGBoost, LightGBM)
+
+
+2. 회귀(regression)
+결과: Number
+- Simple Linear Regression
+- Gradient Descent
+- Polynomial Regression
+- Regularization
+- Regression Tree
+
+
+---------------비지도학습--------------
+데이터의 성격을 파악
+
+3. 군집화(clustering)
+- K-Means
+- Mean Shift
+- GMM
+- DBSCAN
+
+4. 변환(transform)
+- PCA
+- NMF
+
+5. 연관(association)
+- Apriori
+- FP-Growth
+- FPV
+
+----------------강화학습---------------
+상태에 대한 보상을 받도록 행동
+- CNN
+- Experience replay
+- Target network
+
