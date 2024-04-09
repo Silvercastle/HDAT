@@ -1,0 +1,8 @@
+케라스 모델 - Embedding, globalAveragePooling
+
+임베딩 : 고차원 -> 저차원 (ex : ASCII) string -> num
+-- 연관성 : 학습데이터를 임베딩하여 상관관계를 부여하여 긍/부정 분류
+
+자연어, 단어의 의미때문에 고차원
+의미 파악 : 임베딩
+레이어층 textVectorization
