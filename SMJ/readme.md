@@ -23,3 +23,6 @@ https://youtu.be/9xZa4FAfKgY?si=LLpIkbAZssyhTzl2
     Imbedding 개념과 텍스트 분류 기초
 - 숙제: Kaggle 데이터 활용 https://www.kaggle.com/c/nlp-getting-started/overview
     _딥러닝_한번에_끝내기_(텐서플로우,_케라스).ipynb 예습
+
+### 5주차
+_딥러닝_한번에_끝내기_(텐서플로우,_케라스).ipynb 1차 진행
