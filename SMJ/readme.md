@@ -26,3 +26,10 @@ https://youtu.be/9xZa4FAfKgY?si=LLpIkbAZssyhTzl2
 
 ### 5주차
 _딥러닝_한번에_끝내기_(텐서플로우,_케라스).ipynb 1차 진행
+
+### 6주차
+- 챗봇 원리, 텍스트 임베딩, 연관 분석 by 김은성 C
+- _딥러닝_한번에_끝내기_(텐서플로우,_케라스).ipynb 2차 진행
+- 숙제: 타이타닉 생존률 예측
+    - https://gooopy.tistory.com/80
+    - https://velog.io/@takiwow1996/%EC%9E%85%EB%AC%B8-Titanic-Survivor-Prediction-%ED%83%80%EC%9D%B4%ED%83%80%EB%8B%89-%EC%83%9D%EC%A1%B4%EC%9E%90-%EC%98%88%EC%B8%A1
