@@ -33,3 +33,11 @@ _딥러닝_한번에_끝내기_(텐서플로우,_케라스).ipynb 1차 진행
 - 숙제: 타이타닉 생존률 예측
     - https://gooopy.tistory.com/80
     - https://velog.io/@takiwow1996/%EC%9E%85%EB%AC%B8-Titanic-Survivor-Prediction-%ED%83%80%EC%9D%B4%ED%83%80%EB%8B%89-%EC%83%9D%EC%A1%B4%EC%9E%90-%EC%98%88%EC%B8%A1
+
+### 7주차
+- 04.25 _딥러닝_한번에_끝: 손실함수 ~ MNIST 손글씨(숫자) 예측하기(모델 생성, 예측, 저장...)
+    - Q. 위 예제에서 손실함수로 왜 categorical_crossentropy 를 썼는지 생각해보기
+- 타이타닉 생존률 예측하기
+    - KES / 240420 313.ipynb, 240420.ipynb 파일 참고해서 공부하기
+- 숙제: 딥한끝.MNIST.예제 따라해보기, 타이타닉 숙제
+- 8, 9주차는 잠깐 쉬는 시간입니다.
