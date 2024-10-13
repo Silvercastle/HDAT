@@ -57,9 +57,6 @@ df7 = df7.reset_index()
 
 # streamlit
 
-# tab
-tab1, tab2 = st.tabs(['Tab A', 'Tab B'])
-
 # metrics
 met_col1, met_col2, met_col3, met_col4 = st.columns(4)
 met_col1.metric(label="Age", value="20대", delta="12명")
@@ -67,14 +64,17 @@ met_col2.metric(label="Age", value="30대", delta="-10명")
 met_col3.metric(label="Age", value="40대", delta="-1명")
 met_col4.metric(label="Age", value="50대 이상", delta="8명")
 
+# tab
+tab1, tab2 = st.tabs(['Tab A', 'Tab B'])
 
 # layout
 col1, col2 = st.columns(2)
+
 col1.subheader('월별 카드 이용자수')
 col1.line_chart(df_1_pivot)
 
 col2.subheader('월별 카드 이용금액')
-col2.line_chart(df_2_pivot)
+col2.line_chart(df_2_pivot) 
 
 st.subheader('방문인구와 이용자수의 상관관계')
 st.scatter_chart(df7, x='방문인구', y='이용자수')
