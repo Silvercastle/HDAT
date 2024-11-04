@@ -1,0 +1,71 @@
+brand,name,size,price,battery,weight,year
+apple,iPhone 14 (128GB),"6.1""",1250.0,3729,172.0,2022
+apple,iPhone 14 (256GB),"6.1""",1400.0,3729,172.0,2022
+Apple,iPhone 14 (512GB),"6.1""",1700.0,3729,172.0,2022
+apple,iPhone 14 Plus (128GB),"6.7""",1350.0,4325,203.0,2022
+APPLE,iPhone 14 Plus (256GB),"6.7""",1500.0,4325,203.0,2022
+Apple,iPhone 14 Plus (512GB),"6.7""",1800.0,4325,203.0,2022
+APPLE,iPhone 14 Pro (128GB),"6.1""",1550.0,3200,206.0,2022
+APPLE,iPhone 14 Pro (256GB),"6.1""",1700.0,3200,206.0,2022
+APPLE,iPhone 14 Pro (512GB),"6.1""",2000.0,3200,206.0,2022
+APPLE,iPhone 14 Pro (1TB),"6.1""",2300.0,3200,206.0,2022
+apple,iPhone 14 Pro Max (128GB),"6.7""",1740.0,4323,240.0,2022
+apple,iPhone 14 Pro Max (256GB),"6.7""",1900.0,4323,240.0,2022
+apple,iPhone 14 Pro Max (512GB),"6.7""",2200.0,4323,240.0,2022
+Apple,iPhone 14 Pro Max (1TB),"6.7""",2500.0,4323,240.0,2022
+SAMSUNG,Galaxy S22 (256GB),"6.1""",999.9,3700,167.0,2022
+SAMSUNG,Galaxy S22 Ultra (256GB),"6.8""",1452.0,5000,228.0,2022
+samsung,Galaxy S22 Ultra (512GB),"6.8""",1551.0,5000,228.0,2022
+samsung,Galaxy S22 Ultra (1TB),"6.8""",1749.0,5000,228.0,2022
+samsung,Galaxy S22+ (256GB),"6.6""",1199.0,4500,195.0,2022
+samsung,Galaxy S22+ (256GB),"6.6""",1199.0,4500,195.0,2022
+Samsung,Galaxy Z Flip4 (256GB),"6.7""",1353.0,3700,187.0,2022
+samsung,Galaxy Z Flip4 (512GB),"6.7""",1474.0,3700,187.0,2022
+samsung,Galaxy Z Fold4 (256GB),"7.6""",1998.7,4400,263.0,2022
+samsung,Galaxy Z Fold4 (256GB),"7.6""",1998.7,4400,263.0,2022
+SAMSUNG,Galaxy Z Fold4 (512GB),"7.6""",2117.7,4400,263.0,2022
+Samsung,Galaxy Z Fold4 (1TB),"7.6""",2631.7,4400,263.0,2022
+apple,iPhone 13 (128GB),"6.1""",1090.0,3227,173.0,2021
+Apple,iPhone 13 (256GB),"6.1""",1230.0,3227,173.0,2021
+apple,iPhone 13 (512GB),"6.1""",1500.0,3227,173.0,2021
+APPLE,iPhone 13 Pro (128GB),"6.1""",1350.0,3095,203.0,2021
+Apple,iPhone 13 Pro (256GB),"6.1""",1490.0,3095,203.0,2021
+Apple,iPhone 13 Pro (512GB),"6.1""",1760.0,3095,203.0,2021
+Apple,iPhone 13 Pro (1TB),"6.1""",2030.0,3095,203.0,2021
+apple,iPhone 13 Pro Max (128GB),"6.7""",1490.0,4352,238.0,2021
+Apple,iPhone 13 Pro Max (256GB),"6.7""",1630.0,4352,238.0,2021
+Apple,iPhone 13 Pro Max (512GB),"6.7""",1900.0,4352,238.0,2021
+Apple,iPhone 13 Pro Max (1TB),"6.7""",2170.0,4352,238.0,2021
+Apple,iPhone 13 mini (128GB),"5.4""",950.0,2406,,2021
+Apple,iPhone 13 mini (256GB),"5.4""",1090.0,2406,,2021
+APPLE,iPhone 13 mini (512GB),"5.4""",1360.0,2406,,2021
+SAMSUNG,Galaxy A12 (32GB),"6.5""",275.0,5000,205.0,2021
+samsung,Galaxy S21 (256GB),"6.2""",999.9,4000,169.0,2021
+SAMSUNG,Galaxy S21 Ultra (256GB),"6.8""",1452.0,5000,227.0,2021
+samsung,Galaxy S21 Ultra (512GB),"6.8""",1599.4,5000,227.0,2021
+SAMSUNG,Galaxy S21+ (256GB),"6.7""",1199.0,4800,200.0,2021
+SAMSUNG,Galaxy Z Flip3 (256GB),"6.7""",1254.0,3300,183.0,2021
+Samsung,Galaxy Z Fold3 (256GB),"7.6""",1998.7,4400,271.0,2021
+samsung,Galaxy Z Fold3 (512GB),"7.6""",2097.7,4400,271.0,2021
+samsung,Galaxy Z Fold3 Thom Browne Edition (512GB),"7.6""",3960.0,4400,271.0,2021
+apple,iPhone 12 (64GB),"6.1""",1090.0,2815,164.0,2020
+apple,iPhone 12 (128GB),"6.1""",1160.0,2815,164.0,2020
+Apple,iPhone 12 (256GB),"6.1""",1300.0,2815,164.0,2020
+apple,iPhone 12 Pro (128GB),"6.1""",1350.0,2815,189.0,2020
+APPLE,iPhone 12 Pro (256GB),"6.1""",1490.0,2815,189.0,2020
+apple,iPhone 12 Pro (512GB),"6.1""",1760.0,2815,189.0,2020
+apple,iPhone 12 Pro Max (128GB),"6.7""",1490.0,3687,228.0,2020
+apple,iPhone 12 Pro Max (128GB),"6.7""",1490.0,3687,228.0,2020
+apple,iPhone 12 Pro Max (128GB),"6.7""",1490.0,3687,228.0,2020
+Apple,iPhone 12 Pro Max (256GB),"6.7""",1630.0,3687,228.0,2020
+APPLE,iPhone 12 Pro Max (512GB),"6.7""",1900.0,3687,228.0,2020
+Apple,iPhone 12 mini (64GB),"5.4""",950.0,2227,135.0,2020
+Apple,iPhone 12 mini (128GB),"5.4""",1020.0,2227,135.0,2020
+Apple,iPhone 12 mini (256GB),"5.4""",1160.0,2227,135.0,2020
+samsung,Galaxy S20 (128GB),"6.2""",1248.5,4000,163.0,2020
+samsung,Galaxy S20 Ultra (256GB),"6.9""",1595.0,5000,220.0,2020
+SAMSUNG,Galaxy S20 Ultra (512GB),"6.9""",1793.0,5000,220.0,2020
+samsung,Galaxy S20+ (256GB),"6.7""",1353.0,4500,186.0,2020
+SAMSUNG,Galaxy Z Flip2 (256GB),"6.7""",1650.0,3300,183.0,2020
+Samsung,Galaxy Z Fold2 (256GB),"7.6""",1892.0,4500,282.0,2020
+samsung,Galaxy Z Fold2 Thom Browne Edition (256GB),"7.6""",3960.0,4500,282.0,2020
